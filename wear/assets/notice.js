@@ -1,4 +1,4 @@
-const noticeText = "স্বপন আমার বন্ধু! 🤍";
+const noticeText = "এই ওয়েবসাইট এর কার্যক্রম অনির্দিষ্টকালের জন্য বন্ধ";
 
 const noticeElement = document.getElementById("top-notice");
 
