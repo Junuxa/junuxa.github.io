@@ -1,4 +1,4 @@
-const noticeText = "ওয়েবসাইট আজকে সকালে বন্ধ থাকবে";
+const noticeText = "স্বপন আমার বন্ধু! 🤍";
 
 const noticeElement = document.getElementById("top-notice");
 
